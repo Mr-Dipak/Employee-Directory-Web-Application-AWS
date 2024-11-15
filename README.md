@@ -14,7 +14,7 @@ This is a server for an employee directory application built with Node.js, Expre
 
 1. Clone the repository:
     ```sh
-    git clone [<repository-url>](https://github.com/Mr-Dipak/employee-directory-application)
+    git clone https://github.com/Mr-Dipak/employee-directory-application
     cd employee-directory-application
     ```
 
