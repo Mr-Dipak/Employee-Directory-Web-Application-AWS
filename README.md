@@ -1,4 +1,4 @@
-# Employee Directory web App ( AWS PROJECT )
+# Employee Directory web Application ( AWS PROJECT )
 
 This is a server for an employee directory application built with Node.js, Express, and AWS services.
 
@@ -14,7 +14,7 @@ This is a server for an employee directory application built with Node.js, Expre
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Mr-Dipak/employee-directory-app-aws-project
+    git clone https://github.com/Mr-Dipak/Employee-Directory-Web-Application-AWS
     cd employee-directory-application
     ```
 
